@@ -80,4 +80,5 @@ class PostsController < ApplicationController
       format.json { head :no_content }
     end
   end
+  #Here is a comment added by MikeJ 20121023T0121
 end
